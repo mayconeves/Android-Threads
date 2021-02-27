@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Threads</string>
+    <string name="btn_exibir">Exibir</string>
+    <string name="txv_titulo_download">Clique para carregar a imagem: </string>
+    <string name="txt_aguarde">Aguarde...</string>
+    <string name="txt_acao_concluida">Ação concluída!</string>
+    <string name="tbn_exibir_progresso">Exibir ProgressDialog</string>
+</resources>
